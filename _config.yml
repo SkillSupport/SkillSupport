@@ -1,0 +1,4 @@
+theme: jekyll-theme-merlot
+
+<!--fonts-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
