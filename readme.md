@@ -6,7 +6,7 @@
 
 해당 실습 파일은 **일부는 스킬서포트 실습환경에서만**, **일부는 특정 일자에만 열람할수 있도록** 설정되어 있습니다.
 
-[**★ Microsoft Azure 시험 목록 ★**](http://gitlab.skillsupport.co.kr/Azure/warehouse)
+[**★ Microsoft Azure 시험 목록 ★**](https://github.com/SkillSupport/EXAM)
 
 
 <br>
