@@ -13,7 +13,7 @@
 
 ## 해당되는 강의명을 클릭합니다.
 
-[**Microsoft 공인 과정 : AZ-900 (Azure 기초)**](http://gitlab.skillsupport.co.kr/azure-role-based-2020/az-900)
+[**Microsoft 공인 과정 : AZ-900 (Azure 기초)**](http://gitlab.skillsupport.co.kr/azure-role-based-2020/az-900-ko)
 
 [**Microsoft 공인 과정 : AZ-104 (Azure 관리자)**](http://gitlab.skillsupport.co.kr/azure-role-based-2020/az-104-ko)
 
