@@ -13,20 +13,21 @@
 
 ## 해당되는 강의명을 클릭합니다.
 
-
-[**Skill Support 과정 : Azure Infra Fundamental Training**](http://gitlab.skillsupport.co.kr/Azure/ss-iaas-basic)
-
-[**Skill Support 과정 : Azure Infra Advanced Training**](http://gitlab.skillsupport.co.kr/Azure/ss-iaas-advanced/)
-
-[**Microsoft 공인 과정 : AZ-104 (Azure 관리자)**](http://gitlab.skillsupport.co.kr/Azure/az-104)
-
-[**Microsoft 공인 과정 : AZ-204 (Azure 개발자)**](http://gitlab.skillsupport.co.kr/Azure/az-204)
-
-[**Microsoft 공인 과정 : AZ-303 (Azure 아키텍쳐 기술)**](http://gitlab.skillsupport.co.kr/Azure/az-303)
-
 [**Microsoft 공인 과정 : AZ-900 (Azure 기초)**](http://gitlab.skillsupport.co.kr/Azure/az-900)
 
+[**Microsoft 공인 과정 : AZ-104 (Azure 관리자)**](http://gitlab.skillsupport.co.kr/azure-role-based-2020/az-104-ko)
+
+[**Microsoft 공인 과정 : AZ-204 (Azure 개발자)**](http://gitlab.skillsupport.co.kr/azure-role-based-2020/az-204-ko)
+
+[**Microsoft 공인 과정 : AZ-303 (Azure 아키텍쳐 기술)-준비중**](http://gitlab.skillsupport.co.kr/azure-role-based-2020/az-303-ko)
+
+[**Microsoft 공인 과정 : AZ-500 (Azure 보안)**](http://gitlab.skillsupport.co.kr/azure-role-based-2020/az-500-ko)
 
 <br>
+
+[**Skill Support 과정 : Azure Infra Fundamental Training**](http://gitlab.skillsupport.co.kr/azure-skillsupport-class-2020/ss-azure-infra-basic)
+
+[**Skill Support 과정 : Azure Infra Advanced Training**](http://gitlab.skillsupport.co.kr/azure-skillsupport-class-2020/ss-azure-infra-advanced)
+
 
 `Copyright ⓒ (주)스킬서포트 All Rights Reserved.`
