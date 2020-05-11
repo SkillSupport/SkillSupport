@@ -25,9 +25,9 @@
 
 <br>
 
-[**Skill Support 과정 : Azure Infra Fundamental Training**](http://gitlab.skillsupport.co.kr/azure-skillsupport-class-2020/ss-azure-infra-basic)
+[**Skill Support 과정 : Azure Infra Training Fundamental**](http://gitlab.skillsupport.co.kr/azure-skillsupport-class-2020/ss-azure-infra-basic)
 
-[**Skill Support 과정 : Azure Infra Advanced Training**](http://gitlab.skillsupport.co.kr/azure-skillsupport-class-2020/ss-azure-infra-advanced)
+[**Skill Support 과정 : Azure Infra Training Advanced**](http://gitlab.skillsupport.co.kr/azure-skillsupport-class-2020/ss-azure-infra-advanced)
 
 
 `Copyright ⓒ (주)스킬서포트 All Rights Reserved.`
